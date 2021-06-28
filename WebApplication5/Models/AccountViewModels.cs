@@ -7,6 +7,7 @@ namespace WebApplication5.Models
     {
         [Required]
         [Display(Name = "Email")]
+
         public string Email { get; set; }
     }
 
